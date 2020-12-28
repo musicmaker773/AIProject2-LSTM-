@@ -1,6 +1,6 @@
 # AIProject2-LSTM-
 
-This AI project requires us to use an LSTM to predict COVID-19 cases in the future.
+This AI project requires us to use an LSTM to predict COVID-19 cases in the future. The program will also ask if the user wants to see predictions for either Los Angeles County or Orange County.
 There are two png files that demonstrated this project visually. One of them was a graph. It had a blue line and an orange line. The blue line was old training data and the orange line was prediction data.
 The other png was the quantitative data of the orange line.
 
