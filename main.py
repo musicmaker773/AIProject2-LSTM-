@@ -40,8 +40,6 @@ if n == 1:
     county = 'Los Angeles'
 if n == 2:
     county = 'Orange'
-if n == 3:
-    county = 'Riverside'
 
 #creating dataframe
 data = df.sort_index(ascending=True, axis=0)
